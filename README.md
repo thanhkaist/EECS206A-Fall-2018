@@ -1,4 +1,4 @@
-# EECS206A
+# EECS206A-Fall-2018
 ## Course Info
 EECS206A at UC Berkeley
 ## Introduction
